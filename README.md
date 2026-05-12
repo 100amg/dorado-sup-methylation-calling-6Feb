@@ -175,4 +175,4 @@ samtools view -c sample_Dorado.sorted.bam
 
 Detailed workflow documentation is available here:
 
-[Google Docs Documentation](PASTE_GOOGLE_DOC_LINK_HERE)
+[Google Docs Documentation](https://docs.google.com/document/d/1Wj-gkxO755uF2FdEJx0VJSViN6hjUYA6_AcrjSxTIXk/edit?tab=t.7n1p4o1cd1j)
