@@ -123,8 +123,8 @@ bash scripts/run_dorado_sup_methylation.sh
 Expected outputs:
 
 ```text id="jlwmj0"
-sample_Dorado.sorted.bam
-sample_Dorado.sorted.bam.bai
+sample_sup_methylation.sorted.bam
+sample_sup_methylation.sorted.bam.bai
 ```
 
 ---
