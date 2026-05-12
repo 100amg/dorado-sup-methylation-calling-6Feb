@@ -70,6 +70,7 @@ project/
 │   └── sample2.pod5
 ├── reference.fasta
 ├── reference.fasta.fai
+├── run_dorado_sup_methylation.sh
 ```
 
 ---
